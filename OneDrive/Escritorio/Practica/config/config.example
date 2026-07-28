@@ -1,0 +1,5 @@
+# Ejemplo de configuración del entorno (NO incluir credenciales reales)
+PORT=3000
+DB_HOST=localhost
+DB_USER=root
+DB_PASS=secret_password_here
